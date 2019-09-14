@@ -1,0 +1,135 @@
+.body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.topPage {
+    /* border: 2px solid red; */
+    z-index: 0;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.bg-img {
+    z-index: 1;
+    height: 100%;
+    width: 110.2%;
+}
+
+.slider {
+    z-index: 3;
+    position: absolute;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    top: -3px;
+    overflow: hidden;
+}
+
+.slider img {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    width: 55%;
+    top: 2%;
+}
+
+.mrRobot-title {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    margin: 25%  0  0 6%;
+    width: 85%;
+    height: auto;
+}
+
+.midPage {
+    width: 100%;
+    height: 100%;
+}
+
+.seasonTitle {
+    width: 60%;
+    height: 60%;
+    position: relative;
+    display: block;
+    margin: 5% auto;
+}
+
+.face {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+.timer {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    display: block;
+    font-size: 3vw;
+    margin: 3% auto;
+    position: relative;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+}
+
+.btn {
+    position: relative;
+    display: block;
+    margin: 4% auto;
+    background-color: #444444;
+    width: 20%;
+    height: 15%;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    font-size: 3vw;
+    opacity: 0.5;
+}
+
+.btn p {
+    margin: 1px 0 0 0;
+    padding: 0;
+    font-size: 3vw;
+}
+
+.trailer {
+    width: 100%;
+    height: 100%;
+}
+
+.trailer p {
+    color: #fff;
+    font-size: 3vw;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+}
+
+.trailer img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    display: block;
+    margin: 5% auto;
+}
+
+.trailer iframe {
+    width: 80%;
+    height: 70vh;
+}
+
+.video {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
