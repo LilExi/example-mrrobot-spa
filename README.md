@@ -5,5 +5,7 @@
 
 [ x ] Ссылки на соц-сети
 
+[ x ] Страница плеера
+
 ## Скриншот макета
 ![1](https://github.com/LilExi/example-mrrobot-spa/blob/master/src/assets/IMAGE%202019-09-14%2004:46:59.jpg?raw=true)
